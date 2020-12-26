@@ -1,0 +1,9 @@
+RewriteEngine on 
+
+RewriteRule ^index$ index.php [L]
+RewriteRule ^about$ about.php [L]
+RewriteRule ^becomeDealer$ becomeDealer.php [L]
+RewriteRule ^product$ product.php [L]
+RewriteRule ^career$ career.php [L]
+RewriteRule ^contact$ contact.php [L]
+RewriteRule ^projectSetup$ projectSetup.php [L]
